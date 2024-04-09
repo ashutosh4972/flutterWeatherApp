@@ -1,16 +1,13 @@
 # weatherapplication
 
-A new Flutter project.
+Flutter weather application using the weather api for weather information. 
+-> Location services handling only added for android devices, will be added for ios later.
+-> API key needs to be entered in the apikey.dart file. 
+-> API key can be obtained for free from https://openweathermap.org/
+-> Create a free account and paste the api key in apikey.dart file.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
